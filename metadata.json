@@ -1,0 +1,6 @@
+{
+  "name": "Surya Reklame & Advertising",
+  "description": "Website resmi Surya Reklame dan Advertising Sidoarjo. Spesialis neon box, huruf timbul, papan nama, reklame outdoor, signage interior, dan media promosi berkualitas tinggi bergaransi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
